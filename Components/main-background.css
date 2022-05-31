@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background-color: hsl(185, 75%, 39%);
+    background-image: url(https://digitshack.com/codepen/mentor4/bg-pattern-top.svg), 
+    url(https://digitshack.com/codepen/mentor4/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 48vw bottom 40vh,left 45vw top 44vh;
+}
+
+
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

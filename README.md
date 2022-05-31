@@ -7,5 +7,5 @@
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/oAnthonyG/Profile-Card-Component))
+- Solution URL: [GitHub](https://github.com/oAnthonyG/Profile-Card-Component)
 - Live Site URL: [Site Online](https://oanthonyg.github.io/Profile-Card-Component/)
